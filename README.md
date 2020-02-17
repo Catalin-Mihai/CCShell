@@ -1,4 +1,4 @@
-# CCShell
+# CCTerminal
 
 ## Description
 
